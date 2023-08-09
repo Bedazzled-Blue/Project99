@@ -1,0 +1,49 @@
+body
+{
+background-image: linear-gradient(to right top, #ffdd19, #ffffff, #006494 );
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color:#d821a1
+}
+
+#i1{
+    height: 300px;
+    width:300px;
+    margin-top: 10%;
+    border-style: double;
+    border-color: #ffffff;
+    border-width: 12px;
+    
+
+}
+
+#i2{
+    height: 300px;
+    width:450px;
+    float: right;
+    margin-right: 10%;
+    border-style: double;
+    border-color: #ffffff;
+    border-width: 12px;
+}
+
+#i3{
+    height: 300px;
+    width:450px;
+    float: left;
+    margin-left: 10%;
+    border-style: double;
+    border-color: #ffffff;
+    border-width: 12px;
+    
+}
+
+ img:hover{
+    border-radius: 30px;
+}
